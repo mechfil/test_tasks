@@ -2,7 +2,7 @@
 
 ➡️ [Тетрадка ipynb](https://github.com/mechfil/test_tasks/blob/main/Product%20analyst%20test%20task/Product%20analyst%20test%20task.ipynb)
 
-➡️ [Текст задания в pdf] (https://github.com/mechfil/test_tasks/blob/main/Product%20analyst%20test%20task/Product%20analyst%20test%20task.ipynb)
+➡️ [Текст задания в pdf](https://github.com/mechfil/test_tasks/blob/main/Product%20analyst%20test%20task/Product%20analyst%20test%20task.ipynb)
 
 ## Описание проекта
 Представлены данные об активности пользователей в обучающем игровом приложении. Необходимо произвести анализ метрик монетизации, времени в приложении, платежей и особенностей переходов учеников с уровня на уровень.
