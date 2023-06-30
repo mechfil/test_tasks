@@ -1,6 +1,7 @@
 # Анализ пользовательского поведения в мобильном приложении
 
 ➡️ [Тетрадка ipynb](https://github.com/mechfil/test_tasks/blob/main/Product%20analyst%20test%20task/Product%20analyst%20test%20task.ipynb)
+
 ➡️ [Текст задания в pdf] (https://github.com/mechfil/test_tasks/blob/main/Product%20analyst%20test%20task/Product%20analyst%20test%20task.ipynb)
 
 ## Описание проекта
